@@ -1,6 +1,6 @@
 # Analysis of AO3's Selective data dump for fan statisticians (March 2021)
 
-*Disclaimer: the columns I use to describe the schemas of these data sets are not necessarily the actual column names of the files. This is a description of my data manipulation & aggregation processes, not a data dictionary.*
+*Disclaimer: the columns I use to describe the schemas of these data sets are not necessarily the actual column names of the files. This is a description of my data manipulation & aggregation processes, not a data dictionary. I also recommend checking out @mousemode's [repo on github](https://github.com/mousemode/AO3_Data_Dump) - their approach is more robust.*
 
 ## Preparation for Tag Analysis
 
